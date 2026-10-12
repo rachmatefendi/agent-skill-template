@@ -1,0 +1,6 @@
+# PLACEHOLDER — Example Asset
+
+This file is a placeholder representing where non-context asset files would be stored
+(templates, images, fonts, boilerplate, etc.).
+
+Delete or replace before use. Assets are not loaded into the agent's context.

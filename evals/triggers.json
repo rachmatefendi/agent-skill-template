@@ -1,0 +1,9 @@
+{
+  "skill": "github-repo-skill-template",
+  "test_cases": [
+    {"input": "create a repo skill template for github", "should_trigger": true},
+    {"input": "initialize a skill for a GitHub repository", "should_trigger": true},
+    {"input": "bootstrap skill structure for github template repo", "should_trigger": true},
+    {"input": "how do I write a Python script", "should_trigger": false}
+  ]
+}
