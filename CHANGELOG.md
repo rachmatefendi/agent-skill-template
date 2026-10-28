@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-29
+- Correction: the CI workflow described in the 2026-10-11 entries was not included in the published repository (no `.github/workflows/` directory). The repository description no longer claims CI checks. Restore the workflow before reinstating that claim.
+
 ## 2026-10-11
 - Initial skill creation (skill-creator baseline)
 - Targeted revision: removed non-standard frontmatter fields, made validation command portable, clarified dual purpose (GitHub template vs agent skill), added repository-level README and LICENSE guidance, marked resources as optional placeholders
